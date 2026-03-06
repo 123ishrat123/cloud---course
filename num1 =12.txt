@@ -1,5 +1,0 @@
-num1 =12
-num2 =25
-add =num1+num2
-print(add)
-print(add)
